@@ -1,0 +1,39 @@
+
+configfile: "config.yaml"
+import os
+IDS, = glob_wildcards("data/{id}_R1.fastq.gz")
+
+
+rule cutadapt:
+    input:
+        "data/{id}_R1.fastq.gz"
+    output:
+        temp("cutadapt/{id}_bcrem_R1.fastq.gz")
+    params:
+        seq_to_rem = 'CGACGCACGTCGTGCATG'
+    shell:
+        "cutadapt -g {params.seq_to_rem}  -o {output}  --cores=0 {input}"
+
+rule bowtie_map:
+    input:
+        "cutadapt/{id}_bcrem_R1.fastq.gz"
+    output:
+        temp("mapped/{id}.bam")
+    log:
+        "logs/{id}.log"
+    shell:
+        "./bowtie_run.sh {input} {output} {log}"
+
+rule sort:
+    input:
+        "mapped/{id}.bam"
+    output:
+        protected("output/{id}.txt")
+    shell:
+        "cat {input} | samtools view | awk '$2==0' | cut -f 3 | sort | uniq -c | sort -n | awk '{{print $2,$1}}' > {output}"
+
+rule all:
+    input:
+        cond = expand("output/{id}.txt", id=IDS),
+    shell:
+        'python scripts/combine_to_csvs.py'
