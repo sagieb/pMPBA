@@ -1,0 +1,980 @@
+,TF,database,description,start,stop,length,general_description
+0,ABF1,MobiDBLite,consensus disorder prediction,84,108,24,IDR_consenous
+1,ABF1,MobiDBLite,consensus disorder prediction,115,132,17,IDR_consenous
+2,ABF1,MobiDBLite,consensus disorder prediction,146,167,21,IDR_consenous
+3,ABF1,MobiDBLite,consensus disorder prediction,168,184,16,IDR_consenous
+4,ABF1,MobiDBLite,consensus disorder prediction,185,227,42,IDR_consenous
+5,ABF1,MobiDBLite,consensus disorder prediction,251,308,57,IDR_consenous
+6,ABF1,MobiDBLite,consensus disorder prediction,273,308,35,IDR_consenous
+7,ABF1,MobiDBLite,consensus disorder prediction,439,463,24,IDR_consenous
+8,ABF1,MobiDBLite,consensus disorder prediction,475,519,44,IDR_consenous
+9,ABF1,MobiDBLite,consensus disorder prediction,590,643,53,IDR_consenous
+10,ABF1,MobiDBLite,consensus disorder prediction,615,643,28,IDR_consenous
+11,ABF1,MobiDBLite,consensus disorder prediction,687,731,44,IDR_consenous
+12,ABF2,SUPERFAMILY,HMG-box,42,115,73,DBD
+13,ABF2,SUPERFAMILY,HMG-box,115,181,66,DBD
+14,ACA1,SMART,brlzneu,382,446,64,DBD
+15,ACE2,MobiDBLite,consensus disorder prediction,77,97,20,IDR_consenous
+16,ACE2,CDD,UDM1_RNF168_RNF169-like,191,240,49,other
+17,ACE2,MobiDBLite,consensus disorder prediction,286,323,37,IDR_consenous
+18,ACE2,FunFam,Transcriptional factor SWI5,585,629,44,other
+19,ACE2,SUPERFAMILY,beta-beta-alpha zinc fingers,598,628,30,DBD
+20,ACE2,SUPERFAMILY,beta-beta-alpha zinc fingers,619,660,41,DBD
+21,ACE2,FunFam,Transcription factor,630,660,30,DBD
+22,ACE2,MobiDBLite,consensus disorder prediction,699,770,71,IDR_consenous
+23,ACE2,MobiDBLite,consensus disorder prediction,715,745,30,IDR_consenous
+24,ACE2,MobiDBLite,consensus disorder prediction,752,770,18,IDR_consenous
+25,ADR1,FunFam,C2H2 zinc finger protein,102,131,29,DBD
+26,ADR1,Pfam,"Zinc finger, C2H2 type",132,155,23,DBD
+27,ADR1,MobiDBLite,consensus disorder prediction,175,211,36,IDR_consenous
+28,ADR1,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,764,783,19,other
+29,AFT1,MobiDBLite,consensus disorder prediction,1,21,20,IDR_consenous
+30,AFT1,Pfam,Transcription factor AFT,108,243,135,other
+31,AFT1,MobiDBLite,consensus disorder prediction,148,205,57,IDR_consenous
+32,AFT1,MobiDBLite,consensus disorder prediction,159,176,17,IDR_consenous
+33,AFT1,MobiDBLite,consensus disorder prediction,177,199,22,IDR_consenous
+34,AFT1,MobiDBLite,consensus disorder prediction,335,354,19,IDR_consenous
+35,AFT1,MobiDBLite,consensus disorder prediction,612,655,43,IDR_consenous
+36,AFT1,MobiDBLite,consensus disorder prediction,640,655,15,IDR_consenous
+37,AFT2,Pfam,Transcription factor AFT,51,137,86,other
+38,ARG56,Phobius,N-terminal region of a signal peptide.,1,2,1,other
+39,ARG56,Pfam,"NAT, N-acetyltransferase, of N-acetylglutamate synthase",333,499,166,other
+40,ARG56,ProSiteProfiles,Vertebrate-like NAGS Gcn5-related N-acetyltransferase (GNAT) domain profile.,353,505,152,other
+41,ARG56,CDD,DUF619-NAGK-FABP,387,483,96,other
+42,ARG56,SUPERFAMILY,NAD(P)-binding Rossmann-fold domains,541,696,155,other
+43,ARG56,ProSitePatterns,N-acetyl-gamma-glutamyl-phosphate reductase active site.,670,686,16,other
+44,ARG56,Pfam,"Semialdehyde dehydrogenase, dimerisation domain",696,833,137,other
+45,ARG80,MobiDBLite,consensus disorder prediction,1,82,81,IDR_consenous
+46,ARG80,MobiDBLite,consensus disorder prediction,57,82,25,IDR_consenous
+47,ARG80,ProSiteProfiles,MADS-box domain profile.,78,138,60,DBD
+48,ARG80,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",135,177,42,other
+49,ARG80,MobiDBLite,consensus disorder prediction,157,177,20,IDR_consenous
+50,ARR1,MobiDBLite,consensus disorder prediction,1,29,28,IDR_consenous
+51,ARR1,SUPERFAMILY,Leucine zipper domain,17,77,60,DBD
+52,ARR1,SUPERFAMILY,YAP1 redox domain,221,286,65,other
+53,ASG1,SUPERFAMILY,Zn2/Cys6 DNA-binding domain,11,56,45,DBD
+54,ASG1,MobiDBLite,consensus disorder prediction,104,125,21,IDR_consenous
+55,ASG1,MobiDBLite,consensus disorder prediction,190,225,35,IDR_consenous
+56,ASG1,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,291,310,19,other
+57,ASG1,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",311,347,36,other
+58,ASG1,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,348,369,21,other
+59,ASG1,SMART,Fungal_trans_2,365,439,74,other
+60,ASG1,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,528,545,17,other
+61,ASG1,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",546,591,45,other
+62,ASG1,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,592,610,18,other
+63,ASG1,MobiDBLite,consensus disorder prediction,733,764,31,IDR_consenous
+64,ASG1,MobiDBLite,consensus disorder prediction,800,900,100,IDR_consenous
+65,ASH1,MobiDBLite,consensus disorder prediction,85,109,24,IDR_consenous
+66,ASH1,MobiDBLite,consensus disorder prediction,377,398,21,IDR_consenous
+67,ASH1,MobiDBLite,consensus disorder prediction,417,448,31,IDR_consenous
+68,ASH1,MobiDBLite,consensus disorder prediction,467,495,28,IDR_consenous
+69,ASH1,SMART,GATA_3,493,548,55,other
+70,AZF1,MobiDBLite,consensus disorder prediction,1,63,62,IDR_consenous
+71,AZF1,MobiDBLite,consensus disorder prediction,93,124,31,IDR_consenous
+72,AZF1,MobiDBLite,consensus disorder prediction,138,195,57,IDR_consenous
+73,AZF1,MobiDBLite,consensus disorder prediction,207,229,22,IDR_consenous
+74,AZF1,MobiDBLite,consensus disorder prediction,238,275,37,IDR_consenous
+75,AZF1,MobiDBLite,consensus disorder prediction,326,415,89,IDR_consenous
+76,AZF1,MobiDBLite,consensus disorder prediction,356,411,55,IDR_consenous
+77,AZF1,PANTHER,ZINC FINGER PROTEIN 142,587,705,118,DBD
+78,AZF1,FunFam,AZF1 (YOR113W),618,645,27,other
+79,AZF1,SUPERFAMILY,beta-beta-alpha zinc fingers,643,697,54,DBD
+80,AZF1,SMART,c2h2final6,677,702,25,DBD
+81,AZF1,MobiDBLite,consensus disorder prediction,743,812,69,IDR_consenous
+82,AZF1,MobiDBLite,consensus disorder prediction,853,877,24,IDR_consenous
+83,BAS1,ProSiteProfiles,Myb-like domain profile.,34,110,76,DBD
+84,BAS1,ProSiteProfiles,Myb-like domain profile.,111,161,50,DBD
+85,BAS1,SMART,sant,168,216,48,DBD
+86,BAS1,MobiDBLite,consensus disorder prediction,237,259,22,IDR_consenous
+87,BAS1,MobiDBLite,consensus disorder prediction,260,282,22,IDR_consenous
+88,BAS1,MobiDBLite,consensus disorder prediction,283,300,17,IDR_consenous
+89,BAS1,MobiDBLite,consensus disorder prediction,348,379,31,IDR_consenous
+90,BAS1,MobiDBLite,consensus disorder prediction,535,713,178,IDR_consenous
+91,BAS1,MobiDBLite,consensus disorder prediction,680,704,24,IDR_consenous
+92,BAS1,MobiDBLite,consensus disorder prediction,782,811,29,IDR_consenous
+93,BAS1,MobiDBLite,consensus disorder prediction,795,811,16,IDR_consenous
+94,CAD1,MobiDBLite,consensus disorder prediction,26,64,38,IDR_consenous
+95,CAD1,SMART,brlzneu,41,105,64,DBD
+96,CAD1,MobiDBLite,consensus disorder prediction,127,156,29,IDR_consenous
+97,CAD1,SUPERFAMILY,YAP1 redox domain,301,408,107,other
+98,CAD1,Pfam,Transcription factor PAP1,351,405,54,other
+99,CBF1,MobiDBLite,consensus disorder prediction,1,165,164,IDR_consenous
+100,CBF1,MobiDBLite,consensus disorder prediction,44,77,33,IDR_consenous
+101,CBF1,MobiDBLite,consensus disorder prediction,102,127,25,IDR_consenous
+102,CBF1,MobiDBLite,consensus disorder prediction,134,165,31,IDR_consenous
+103,CBF1,MobiDBLite,consensus disorder prediction,196,233,37,IDR_consenous
+104,CBF1,MobiDBLite,consensus disorder prediction,211,233,22,IDR_consenous
+105,CBF1,MobiDBLite,consensus disorder prediction,327,351,24,IDR_consenous
+106,CIN5,PANTHER,TRANSCRIPTION FACTOR KAPC-RELATED,153,294,141,other
+107,CIN5,MobiDBLite,consensus disorder prediction,181,205,24,IDR_consenous
+108,CIN5,SMART,brlzneu,235,295,60,DBD
+109,CMR3,MobiDBLite,consensus disorder prediction,1,22,21,IDR_consenous
+110,CMR3,SUPERFAMILY,beta-beta-alpha zinc fingers,241,278,37,DBD
+111,CMR3,FunFam,Transcription factor HIVEP2,253,278,25,other
+112,CMR3,FunFam,YPR013C-like protein,279,316,37,other
+113,COM2,MobiDBLite,consensus disorder prediction,337,383,46,IDR_consenous
+114,COM2,SUPERFAMILY,beta-beta-alpha zinc fingers,387,440,53,DBD
+115,COM2,FunFam,MDS1 and EVI1 complex locus,415,441,26,other
+116,CRZ1,MobiDBLite,consensus disorder prediction,1,22,21,IDR_consenous
+117,CRZ1,MobiDBLite,consensus disorder prediction,35,50,15,IDR_consenous
+118,CRZ1,MobiDBLite,consensus disorder prediction,159,195,36,IDR_consenous
+119,CRZ1,MobiDBLite,consensus disorder prediction,401,486,85,IDR_consenous
+120,CRZ1,MobiDBLite,consensus disorder prediction,425,442,17,IDR_consenous
+121,CRZ1,MobiDBLite,consensus disorder prediction,468,486,18,IDR_consenous
+122,CRZ1,FunFam,Transcriptional regulator CRZ1,568,593,25,other
+123,CRZ1,FunFam,C2H2 type zinc finger protein,594,622,28,DBD
+124,CRZ1,FunFam,C2H2 type zinc finger protein,623,655,32,DBD
+125,CST6,MobiDBLite,consensus disorder prediction,1,62,61,IDR_consenous
+126,CST6,MobiDBLite,consensus disorder prediction,12,29,17,IDR_consenous
+127,CST6,MobiDBLite,consensus disorder prediction,32,62,30,IDR_consenous
+128,CST6,MobiDBLite,consensus disorder prediction,123,142,19,IDR_consenous
+129,CST6,MobiDBLite,consensus disorder prediction,169,195,26,IDR_consenous
+130,CST6,MobiDBLite,consensus disorder prediction,381,423,42,IDR_consenous
+131,CST6,MobiDBLite,consensus disorder prediction,392,422,30,IDR_consenous
+132,CST6,SMART,brlzneu,423,487,64,DBD
+133,CST6,MobiDBLite,consensus disorder prediction,552,587,35,IDR_consenous
+134,CTH1,FunFam,zinc finger CCCH domain-containing protein 15-like,198,237,39,DBD
+135,CTH1,FunFam,Zinc finger protein,238,272,34,DBD
+136,CTH1,MobiDBLite,consensus disorder prediction,284,306,22,IDR_consenous
+137,CUP2,SMART,copper1,1,40,39,other
+138,CUP2,PRINTS,Copper fist domain signature,14,26,12,DBD
+139,CUP2,PRINTS,Copper fist domain signature,27,39,12,DBD
+140,CUP9,MobiDBLite,consensus disorder prediction,75,123,48,IDR_consenous
+141,CUP9,PANTHER,HOMEOBOX PROTEIN TRANSCRIPTION FACTORS,96,220,124,other
+142,CUP9,FunFam,Homeobox protein TOS8,138,220,82,DBD
+143,CUP9,ProSiteProfiles,'Homeobox' domain profile.,160,223,63,DBD
+144,CUP9,Pfam,Homeobox KN domain,180,219,39,DBD
+145,CYC8,MobiDBLite,consensus disorder prediction,1,37,36,IDR_consenous
+146,CYC8,FunFam,Cyc8p,42,120,78,other
+147,CYC8,ProSiteProfiles,TPR repeat region circular profile.,80,112,32,other
+148,CYC8,SMART,tpr_5,114,147,33,other
+149,CYC8,FunFam,Transcriptional corepressor Cyc8,144,274,130,other
+150,CYC8,ProSiteProfiles,TPR repeat profile.,187,220,33,other
+151,CYC8,SMART,tpr_5,224,257,33,other
+152,CYC8,SMART,tpr_5,258,295,37,other
+153,CYC8,FunFam,Transcriptional corepressor Cyc8,277,419,142,other
+154,CYC8,SMART,tpr_5,296,329,33,other
+155,CYC8,ProSiteProfiles,TPR repeat region circular profile.,330,361,31,other
+156,CYC8,SMART,tpr_5,364,398,34,other
+157,CYC8,MobiDBLite,consensus disorder prediction,412,489,77,IDR_consenous
+158,CYC8,MobiDBLite,consensus disorder prediction,440,489,49,IDR_consenous
+159,CYC8,MobiDBLite,consensus disorder prediction,631,666,35,IDR_consenous
+160,CYC8,MobiDBLite,consensus disorder prediction,699,723,24,IDR_consenous
+161,CYC8,MobiDBLite,consensus disorder prediction,759,787,28,IDR_consenous
+162,CYC8,MobiDBLite,consensus disorder prediction,812,860,48,IDR_consenous
+163,CYC8,MobiDBLite,consensus disorder prediction,922,941,19,IDR_consenous
+164,DAL80,FunFam,"Nitrogen regulatory AreA, N-terminal",24,84,60,other
+165,DAL80,PRINTS,Transcription factor GATA zinc finger signature,45,62,17,DBD
+166,DAL82,MobiDBLite,consensus disorder prediction,87,149,62,IDR_consenous
+167,DAT1,MobiDBLite,consensus disorder prediction,1,127,126,IDR_consenous
+168,DAT1,MobiDBLite,consensus disorder prediction,18,67,49,IDR_consenous
+169,DAT1,MobiDBLite,consensus disorder prediction,97,127,30,IDR_consenous
+170,DAT1,MobiDBLite,consensus disorder prediction,219,248,29,IDR_consenous
+171,DOT6,MobiDBLite,consensus disorder prediction,1,78,77,IDR_consenous
+172,DOT6,SUPERFAMILY,Homeodomain-like,67,122,55,DBD
+173,DOT6,MobiDBLite,consensus disorder prediction,226,250,24,IDR_consenous
+174,DOT6,MobiDBLite,consensus disorder prediction,293,332,39,IDR_consenous
+175,DOT6,MobiDBLite,consensus disorder prediction,406,436,30,IDR_consenous
+176,DOT6,MobiDBLite,consensus disorder prediction,483,659,176,IDR_consenous
+177,DOT6,MobiDBLite,consensus disorder prediction,508,523,15,IDR_consenous
+178,DOT6,MobiDBLite,consensus disorder prediction,541,563,22,IDR_consenous
+179,DOT6,MobiDBLite,consensus disorder prediction,572,659,87,IDR_consenous
+180,ECM23,MobiDBLite,consensus disorder prediction,106,127,21,IDR_consenous
+181,ECM23,SUPERFAMILY,Glucocorticoid receptor-like (DNA-binding domain),123,168,45,DBD
+182,ECM23,MobiDBLite,consensus disorder prediction,167,187,20,IDR_consenous
+183,ENV11,MobiDBLite,consensus disorder prediction,19,45,26,IDR_consenous
+184,ENV11,ProSiteProfiles,Zinc finger BED-type profile.,84,138,54,DBD
+185,FHL1,MobiDBLite,consensus disorder prediction,1,90,89,IDR_consenous
+186,FHL1,MobiDBLite,consensus disorder prediction,58,73,15,IDR_consenous
+187,FHL1,MobiDBLite,consensus disorder prediction,139,169,30,IDR_consenous
+188,FHL1,SUPERFAMILY,SMAD/FHA domain,237,394,157,other
+189,FHL1,FunFam,Forkhead transcription factor Fkh1/2,262,390,128,other
+190,FHL1,CDD,FHA_FKH1-like,282,383,101,other
+191,FHL1,SMART,FHA_2,299,357,58,other
+192,FHL1,MobiDBLite,consensus disorder prediction,384,442,58,IDR_consenous
+193,FHL1,MobiDBLite,consensus disorder prediction,404,420,16,IDR_consenous
+194,FHL1,MobiDBLite,consensus disorder prediction,421,442,21,IDR_consenous
+195,FHL1,SMART,forkneu4,459,547,88,other
+196,FHL1,PRINTS,Fork head domain signature,483,500,17,DBD
+197,FHL1,PRINTS,Fork head domain signature,506,523,17,DBD
+198,FHL1,MobiDBLite,consensus disorder prediction,738,796,58,IDR_consenous
+199,FHL1,MobiDBLite,consensus disorder prediction,811,857,46,IDR_consenous
+200,FHL1,MobiDBLite,consensus disorder prediction,861,922,61,IDR_consenous
+201,FKH1,CDD,FHA_FKH1-like,58,171,113,other
+202,FKH1,SMART,FHA_2,75,142,67,other
+203,FKH1,SMART,forkneu4,301,391,90,other
+204,FKH1,PRINTS,Fork head domain signature,324,341,17,DBD
+205,FKH1,ProSitePatterns,Fork head domain signature 2.,347,353,6,DBD
+206,FKH2,CDD,FHA_FKH1-like,65,181,116,other
+207,FKH2,SMART,FHA_2,82,152,70,other
+208,FKH2,Pfam,FHA domain,108,172,64,other
+209,FKH2,FunFam,Forkhead box protein K2,328,433,105,other
+210,FKH2,PRINTS,Fork head domain signature,361,378,17,DBD
+211,FKH2,ProSitePatterns,Fork head domain signature 2.,384,390,6,DBD
+212,FKH2,MobiDBLite,consensus disorder prediction,498,528,30,IDR_consenous
+213,FKH2,MobiDBLite,consensus disorder prediction,611,663,52,IDR_consenous
+214,FKH2,MobiDBLite,consensus disorder prediction,698,731,33,IDR_consenous
+215,FKH2,MobiDBLite,consensus disorder prediction,750,846,96,IDR_consenous
+216,FKH2,MobiDBLite,consensus disorder prediction,808,824,16,IDR_consenous
+217,FKH2,MobiDBLite,consensus disorder prediction,825,845,20,IDR_consenous
+218,FYV5,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",1,25,24,other
+219,FYV5,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,26,44,18,other
+220,FYV5,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",45,63,18,other
+221,FYV5,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,64,91,27,other
+222,FYV5,TMHMM,Region of a membrane-bound protein predicted to be embedded in the membrane.,89,111,22,other
+223,FYV5,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",120,124,4,other
+224,FYV5,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",148,152,4,other
+225,FZF1,FunFam,Krueppel-like factor 4,6,95,89,other
+226,FZF1,SUPERFAMILY,beta-beta-alpha zinc fingers,27,69,42,DBD
+227,FZF1,SMART,c2h2final6,42,66,24,DBD
+228,FZF1,SUPERFAMILY,beta-beta-alpha zinc fingers,58,95,37,DBD
+229,FZF1,SMART,c2h2final6,72,94,22,DBD
+230,FZF1,SMART,c2h2final6,155,179,24,DBD
+231,FZF1,MobiDBLite,consensus disorder prediction,191,243,52,IDR_consenous
+232,FZF1,SMART,c2h2final6,246,273,27,DBD
+233,GAT1,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",1,6,5,other
+234,GAT1,Pfam,Fungal protein of unknown function (DUF1752),58,85,27,other
+235,GAT1,MobiDBLite,consensus disorder prediction,220,271,51,IDR_consenous
+236,GAT1,MobiDBLite,consensus disorder prediction,286,311,25,IDR_consenous
+237,GAT1,FunFam,"Nitrogen regulatory AreA, N-terminal",301,363,62,other
+238,GAT1,PRINTS,Transcription factor GATA zinc finger signature,324,341,17,DBD
+239,GAT1,MobiDBLite,consensus disorder prediction,358,383,25,IDR_consenous
+240,GAT3,PANTHER,GATA TRANSCRIPTION FACTOR,50,104,54,other
+241,GAT3,SUPERFAMILY,Glucocorticoid receptor-like (DNA-binding domain),64,122,58,DBD
+242,GAT4,MobiDBLite,consensus disorder prediction,29,48,19,IDR_consenous
+243,GCN4,PANTHER,JUN TRANSCRIPTION FACTOR-RELATED,98,278,180,other
+244,GCN4,MobiDBLite,consensus disorder prediction,217,248,31,IDR_consenous
+245,GCR1,MobiDBLite,consensus disorder prediction,342,381,39,IDR_consenous
+246,GCR1,MobiDBLite,consensus disorder prediction,416,451,35,IDR_consenous
+247,GCR1,MobiDBLite,consensus disorder prediction,481,539,58,IDR_consenous
+248,GCR1,MobiDBLite,consensus disorder prediction,542,573,31,IDR_consenous
+249,GCR1,MobiDBLite,consensus disorder prediction,589,620,31,IDR_consenous
+250,GCR1,Pfam,Transcriptional activator of glycolytic enzymes,638,704,66,other
+251,GIS1,SMART,JmjN_1,11,52,41,other
+252,GIS1,ProSiteProfiles,JmjC domain profile.,170,324,154,other
+253,GIS1,Pfam,"JmjC domain, hydroxylase",192,307,115,other
+254,GIS1,MobiDBLite,consensus disorder prediction,324,355,31,IDR_consenous
+255,GIS1,MobiDBLite,consensus disorder prediction,336,355,19,IDR_consenous
+256,GIS1,MobiDBLite,consensus disorder prediction,521,558,37,IDR_consenous
+257,GIS1,MobiDBLite,consensus disorder prediction,756,810,54,IDR_consenous
+258,GIS1,FunFam,Transcriptional activator/repressor GIS1,826,853,27,other
+259,GIS1,FunFam,Zinc finger 45-like,854,878,24,DBD
+260,GLN3,MobiDBLite,consensus disorder prediction,1,45,44,IDR_consenous
+261,GLN3,MobiDBLite,consensus disorder prediction,31,45,14,IDR_consenous
+262,GLN3,MobiDBLite,consensus disorder prediction,187,208,21,IDR_consenous
+263,GLN3,MobiDBLite,consensus disorder prediction,224,262,38,IDR_consenous
+264,GLN3,FunFam,"Nitrogen regulatory AreA, N-terminal",297,359,62,other
+265,GLN3,PRINTS,Transcription factor GATA zinc finger signature,320,337,17,DBD
+266,GLN3,MobiDBLite,consensus disorder prediction,355,398,43,IDR_consenous
+267,GLN3,MobiDBLite,consensus disorder prediction,449,516,67,IDR_consenous
+268,GLN3,MobiDBLite,consensus disorder prediction,593,673,80,IDR_consenous
+269,GLN3,MobiDBLite,consensus disorder prediction,696,717,21,IDR_consenous
+270,GTS1,FunFam,Gts1p,8,141,133,other
+271,GTS1,PRINTS,HIV Rev interacting protein signature,27,46,19,other
+272,GTS1,PRINTS,HIV Rev interacting protein signature,46,63,17,other
+273,GTS1,PRINTS,HIV Rev interacting protein signature,72,93,21,other
+274,GTS1,MobiDBLite,consensus disorder prediction,148,165,17,IDR_consenous
+275,GTS1,FunFam,Ubiquitin family protein,177,236,59,other
+276,GTS1,ProSiteProfiles,Ubiquitin-associated domain (UBA) profile.,193,234,41,other
+277,GTS1,MobiDBLite,consensus disorder prediction,233,256,23,IDR_consenous
+278,GZF3,MobiDBLite,consensus disorder prediction,17,43,26,IDR_consenous
+279,GZF3,FunFam,"Nitrogen regulatory AreA, N-terminal",123,184,61,other
+280,GZF3,PRINTS,Transcription factor GATA zinc finger signature,145,162,17,DBD
+281,GZF3,MobiDBLite,consensus disorder prediction,212,260,48,IDR_consenous
+282,GZF3,MobiDBLite,consensus disorder prediction,242,257,15,IDR_consenous
+283,GZF3,MobiDBLite,consensus disorder prediction,379,400,21,IDR_consenous
+284,GZF3,MobiDBLite,consensus disorder prediction,467,490,23,IDR_consenous
+285,HAA1,FunFam,Copper fist DNA-binding protein,1,42,41,DBD
+286,HAA1,PRINTS,Copper fist domain signature,14,26,12,DBD
+287,HAA1,PRINTS,Copper fist domain signature,27,39,12,DBD
+288,HAA1,MobiDBLite,consensus disorder prediction,104,128,24,IDR_consenous
+289,HAA1,MobiDBLite,consensus disorder prediction,209,240,31,IDR_consenous
+290,HAA1,MobiDBLite,consensus disorder prediction,332,388,56,IDR_consenous
+291,HAA1,MobiDBLite,consensus disorder prediction,479,514,35,IDR_consenous
+292,HAA1,MobiDBLite,consensus disorder prediction,566,584,18,IDR_consenous
+293,HAA1,MobiDBLite,consensus disorder prediction,650,677,27,IDR_consenous
+294,HAC1,MobiDBLite,consensus disorder prediction,1,39,38,IDR_consenous
+295,HAC1,Pfam,Basic region leucine zipper,38,77,39,DBD
+296,HAC1,MobiDBLite,consensus disorder prediction,115,152,37,IDR_consenous
+297,HAP2,MobiDBLite,consensus disorder prediction,1,64,63,IDR_consenous
+298,HAP2,MobiDBLite,consensus disorder prediction,18,34,16,IDR_consenous
+299,HAP2,MobiDBLite,consensus disorder prediction,78,129,51,IDR_consenous
+300,HAP2,SMART,cbf3,156,217,61,other
+301,HAP2,PRINTS,CCAAT-binding transcription factor subunit B signature,191,214,23,other
+302,HAP2,MobiDBLite,consensus disorder prediction,220,265,45,IDR_consenous
+303,HAP3,MobiDBLite,consensus disorder prediction,1,31,30,IDR_consenous
+304,HAP3,PANTHER,CCAAT-BINDING TRANSCRIPTION FACTOR-RELATED,19,133,114,other
+305,HAP3,FunFam,"Transcriptional activator, variant",31,144,113,other
+306,HAP3,PRINTS,CCAAT-binding transcription factor subunit A signature,69,87,18,other
+307,HAP3,PRINTS,CCAAT-binding transcription factor subunit A signature,88,106,18,other
+308,HAP3,PRINTS,CCAAT-binding transcription factor subunit A signature,107,125,18,other
+309,HAP4,MobiDBLite,consensus disorder prediction,1,16,15,IDR_consenous
+310,HAP4,Pfam,Minimal binding motif of Hap4 for binding to Hap2/3/5,65,80,15,other
+311,HAP4,MobiDBLite,consensus disorder prediction,79,118,39,IDR_consenous
+312,HAP4,MobiDBLite,consensus disorder prediction,393,422,29,IDR_consenous
+313,HAP5,MobiDBLite,consensus disorder prediction,1,108,107,IDR_consenous
+314,HAP5,SUPERFAMILY,Histone-fold,94,231,137,other
+315,HAP5,FunFam,Ccaat-binding factor complex subunit,112,237,125,other
+316,HAP5,PANTHER,HISTONE-LIKE TRANSCRIPTION FACTOR CCAAT-RELATED,132,238,106,other
+317,HCM1,MobiDBLite,consensus disorder prediction,33,80,47,IDR_consenous
+318,HCM1,FunFam,Forkhead protein,98,199,101,other
+319,HCM1,PRINTS,Fork head domain signature,130,147,17,DBD
+320,HCM1,PRINTS,Fork head domain signature,153,170,17,DBD
+321,HCM1,MobiDBLite,consensus disorder prediction,224,239,15,IDR_consenous
+322,HCM1,MobiDBLite,consensus disorder prediction,401,448,47,IDR_consenous
+323,HCM1,MobiDBLite,consensus disorder prediction,536,564,28,IDR_consenous
+324,HCM1,MobiDBLite,consensus disorder prediction,547,564,17,IDR_consenous
+325,HEL2,MobiDBLite,consensus disorder prediction,1,55,54,IDR_consenous
+326,HEL2,SUPERFAMILY,RING/U-box,56,109,53,DBD
+327,HEL2,SMART,c2h2final6,222,246,24,DBD
+328,HEL2,SMART,c2h2final6,247,277,30,DBD
+329,HEL2,SMART,c2h2final6,278,307,29,DBD
+330,HEL2,MobiDBLite,consensus disorder prediction,343,367,24,IDR_consenous
+331,HEL2,MobiDBLite,consensus disorder prediction,550,631,81,IDR_consenous
+332,HEL2,MobiDBLite,consensus disorder prediction,598,627,29,IDR_consenous
+333,HMLALPHA2,ProSiteProfiles,'Homeobox' domain profile.,127,190,63,DBD
+334,HMO1,PANTHER,HIGH MOBILITY GROUP PROTEIN DSP1,49,241,192,other
+335,HMO1,SUPERFAMILY,HMG-box,92,184,92,DBD
+336,HMO1,SMART,hmgende2,105,180,75,other
+337,HMO1,MobiDBLite,consensus disorder prediction,179,246,67,IDR_consenous
+338,HMO1,MobiDBLite,consensus disorder prediction,213,229,16,IDR_consenous
+339,HMRA2,ProSiteProfiles,'Homeobox' domain profile.,36,99,63,DBD
+340,HMS1,CDD,bHLHzip_scHMS1_like,265,363,98,DBD
+341,HMS1,MobiDBLite,consensus disorder prediction,365,434,69,IDR_consenous
+342,HMS2,SMART,hsfneu3,9,103,94,other
+343,HMS2,PRINTS,Heat shock factor (HSF) domain signature,51,63,12,DBD
+344,HMS2,PRINTS,Heat shock factor (HSF) domain signature,64,76,12,DBD
+345,HSF1,MobiDBLite,consensus disorder prediction,1,17,16,IDR_consenous
+346,HSF1,MobiDBLite,consensus disorder prediction,62,92,30,IDR_consenous
+347,HSF1,MobiDBLite,consensus disorder prediction,150,170,20,IDR_consenous
+348,HSF1,FunFam,Heat shock transcription factor 1,167,277,110,other
+349,HSF1,PRINTS,Heat shock factor (HSF) domain signature,213,225,12,DBD
+350,HSF1,PRINTS,Heat shock factor (HSF) domain signature,226,238,12,DBD
+351,HSF1,MobiDBLite,consensus disorder prediction,277,309,32,IDR_consenous
+352,HSF1,MobiDBLite,consensus disorder prediction,447,493,46,IDR_consenous
+353,HSF1,MobiDBLite,consensus disorder prediction,542,561,19,IDR_consenous
+354,HSF1,MobiDBLite,consensus disorder prediction,586,604,18,IDR_consenous
+355,HSF1,MobiDBLite,consensus disorder prediction,606,626,20,IDR_consenous
+356,HSF1,MobiDBLite,consensus disorder prediction,657,765,108,IDR_consenous
+357,HSF1,MobiDBLite,consensus disorder prediction,778,797,19,IDR_consenous
+358,INO2,SUPERFAMILY,"HLH, helix-loop-helix DNA-binding domain",230,301,71,DBD
+359,INO4,SUPERFAMILY,"HLH, helix-loop-helix DNA-binding domain",43,108,65,DBD
+360,INO4,MobiDBLite,consensus disorder prediction,112,137,25,IDR_consenous
+361,ITC1,ProSiteProfiles,WAC domain profile.,23,130,107,other
+362,ITC1,MobiDBLite,consensus disorder prediction,130,153,23,IDR_consenous
+363,ITC1,MobiDBLite,consensus disorder prediction,275,374,99,IDR_consenous
+364,ITC1,MobiDBLite,consensus disorder prediction,310,361,51,IDR_consenous
+365,ITC1,ProSiteProfiles,DDT domain profile.,423,483,60,DBD
+366,ITC1,MobiDBLite,consensus disorder prediction,482,508,26,IDR_consenous
+367,ITC1,MobiDBLite,consensus disorder prediction,627,655,28,IDR_consenous
+368,ITC1,MobiDBLite,consensus disorder prediction,803,825,22,IDR_consenous
+369,ITC1,Pfam,"Williams-Beuren syndrome DDT (WSD), D-TOX E motif",869,1044,175,DBD
+370,IXR1,MobiDBLite,consensus disorder prediction,1,134,133,IDR_consenous
+371,IXR1,MobiDBLite,consensus disorder prediction,174,212,38,IDR_consenous
+372,IXR1,MobiDBLite,consensus disorder prediction,259,291,32,IDR_consenous
+373,IXR1,MobiDBLite,consensus disorder prediction,327,345,18,IDR_consenous
+374,IXR1,SMART,hmgende2,360,430,70,other
+375,IXR1,SMART,hmgende2,433,503,70,other
+376,IXR1,MobiDBLite,consensus disorder prediction,543,597,54,IDR_consenous
+377,MAC1,SUPERFAMILY,Zinc domain conserved in yeast copper-regulated transcription factors,1,40,39,other
+378,MAC1,PRINTS,Copper fist domain signature,14,26,12,DBD
+379,MAC1,PRINTS,Copper fist domain signature,27,39,12,DBD
+380,MAC1,MobiDBLite,consensus disorder prediction,128,198,70,IDR_consenous
+381,MAC1,MobiDBLite,consensus disorder prediction,150,174,24,IDR_consenous
+382,MAC1,MobiDBLite,consensus disorder prediction,175,191,16,IDR_consenous
+383,MAC1,MobiDBLite,consensus disorder prediction,216,242,26,IDR_consenous
+384,MATALPHA1,Pfam,Mating-type protein MAT alpha 1 HMG-box,82,143,61,DBD
+385,MATALPHA2,ProSiteProfiles,'Homeobox' domain profile.,127,190,63,DBD
+386,MBP1,SUPERFAMILY,DNA-binding domain of Mlu1-box binding protein MBP1,4,122,118,DBD
+387,MBP1,SMART,KilA_N_2,22,105,83,other
+388,MBP1,MobiDBLite,consensus disorder prediction,104,223,119,IDR_consenous
+389,MBP1,MobiDBLite,consensus disorder prediction,180,222,42,IDR_consenous
+390,MBP1,MobiDBLite,consensus disorder prediction,280,309,29,IDR_consenous
+391,MBP1,SUPERFAMILY,Ankyrin repeat,359,550,191,other
+392,MBP1,SMART,ANK_2a,394,423,29,other
+393,MBP1,SMART,ANK_2a,427,463,36,other
+394,MBP1,Pfam,Ankyrin repeat,512,543,31,other
+395,MCM1,ProSiteProfiles,MADS-box domain profile.,16,76,60,DBD
+396,MCM1,PRINTS,MADS domain signature,53,74,21,DBD
+397,MCM1,MobiDBLite,consensus disorder prediction,97,119,22,IDR_consenous
+398,MCM1,MobiDBLite,consensus disorder prediction,122,137,15,IDR_consenous
+399,MCM1,MobiDBLite,consensus disorder prediction,167,264,97,IDR_consenous
+400,MDS3,Pfam,Kelch motif,160,214,54,other
+401,MDS3,MobiDBLite,consensus disorder prediction,639,720,81,IDR_consenous
+402,MDS3,MobiDBLite,consensus disorder prediction,695,720,25,IDR_consenous
+403,MDS3,MobiDBLite,consensus disorder prediction,772,796,24,IDR_consenous
+404,MDS3,MobiDBLite,consensus disorder prediction,810,986,176,IDR_consenous
+405,MDS3,MobiDBLite,consensus disorder prediction,868,882,14,IDR_consenous
+406,MDS3,MobiDBLite,consensus disorder prediction,883,932,49,IDR_consenous
+407,MDS3,MobiDBLite,consensus disorder prediction,943,986,43,IDR_consenous
+408,MDS3,MobiDBLite,consensus disorder prediction,1134,1169,35,IDR_consenous
+409,MDS3,MobiDBLite,consensus disorder prediction,1189,1214,25,IDR_consenous
+410,MDS3,MobiDBLite,consensus disorder prediction,1263,1283,20,IDR_consenous
+411,MDS3,MobiDBLite,consensus disorder prediction,1308,1341,33,IDR_consenous
+412,MED15,FunFam,RNA polymerase II holoenzyme complex component,6,90,84,other
+413,MED15,Pfam,Gal11 activator-binding domain (ABD1),158,238,80,other
+414,MED15,CDD,gal11_coact,170,232,62,other
+415,MED15,MobiDBLite,consensus disorder prediction,238,286,48,IDR_consenous
+416,MED15,MobiDBLite,consensus disorder prediction,476,503,27,IDR_consenous
+417,MED15,Pfam,Mediator complex subunit 15,509,620,111,other
+418,MED15,MobiDBLite,consensus disorder prediction,692,712,20,IDR_consenous
+419,MED15,MobiDBLite,consensus disorder prediction,744,836,92,IDR_consenous
+420,MED15,MobiDBLite,consensus disorder prediction,1026,1055,29,IDR_consenous
+421,MED15,MobiDBLite,consensus disorder prediction,1040,1055,15,IDR_consenous
+422,MET28,PANTHER,ACTIVATING TRANSCRIPTION FACTOR  ATF  4/5,92,176,84,other
+423,MET31,PANTHER,ZINC FINGER PROTEIN,86,153,67,DBD
+424,MET31,FunFam,Zinc finger protein,120,146,26,DBD
+425,MET32,MobiDBLite,consensus disorder prediction,70,96,26,IDR_consenous
+426,MET32,PANTHER,ZINC FINGER PROTEIN,89,144,55,DBD
+427,MET32,FunFam,Transcriptional regulator MET31,125,183,58,DBD
+428,MET4,MobiDBLite,consensus disorder prediction,1,44,43,IDR_consenous
+429,MET4,MobiDBLite,consensus disorder prediction,157,265,108,IDR_consenous
+430,MET4,MobiDBLite,consensus disorder prediction,178,192,14,IDR_consenous
+431,MET4,MobiDBLite,consensus disorder prediction,193,265,72,IDR_consenous
+432,MET4,MobiDBLite,consensus disorder prediction,299,323,24,IDR_consenous
+433,MET4,MobiDBLite,consensus disorder prediction,332,347,15,IDR_consenous
+434,MET4,MobiDBLite,consensus disorder prediction,475,574,99,IDR_consenous
+435,MET4,MobiDBLite,consensus disorder prediction,503,517,14,IDR_consenous
+436,MET4,MobiDBLite,consensus disorder prediction,539,565,26,IDR_consenous
+437,MGA1,SMART,hsfneu3,2,116,114,other
+438,MGA1,PRINTS,Heat shock factor (HSF) domain signature,46,58,12,DBD
+439,MGA1,PRINTS,Heat shock factor (HSF) domain signature,59,71,12,DBD
+440,MGA1,MobiDBLite,consensus disorder prediction,229,266,37,IDR_consenous
+441,MGA1,MobiDBLite,consensus disorder prediction,280,299,19,IDR_consenous
+442,MGA2,MobiDBLite,consensus disorder prediction,91,114,23,IDR_consenous
+443,MGA2,MobiDBLite,consensus disorder prediction,344,376,32,IDR_consenous
+444,MGA2,MobiDBLite,consensus disorder prediction,437,462,25,IDR_consenous
+445,MGA2,FunFam,Mga2p,520,665,145,other
+446,MGA2,MobiDBLite,consensus disorder prediction,658,687,29,IDR_consenous
+447,MGA2,PANTHER,NF-KAPPA-B INHIBITOR ALPHA,698,793,95,other
+448,MGA2,SMART,ANK_2a,719,748,29,other
+449,MGA2,ProSiteProfiles,Ankyrin repeat region circular profile.,752,774,22,other
+450,MGA2,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,1037,1056,19,other
+451,MGA2,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",1057,1113,56,other
+452,MIG1,MobiDBLite,consensus disorder prediction,1,17,16,IDR_consenous
+453,MIG1,MobiDBLite,consensus disorder prediction,18,32,14,IDR_consenous
+454,MIG1,Pfam,"Zinc finger, C2H2 type",38,60,22,DBD
+455,MIG1,ProSiteProfiles,Zinc finger C2H2 type domain profile.,66,95,29,DBD
+456,MIG1,MobiDBLite,consensus disorder prediction,81,178,97,IDR_consenous
+457,MIG1,MobiDBLite,consensus disorder prediction,108,134,26,IDR_consenous
+458,MIG1,MobiDBLite,consensus disorder prediction,153,167,14,IDR_consenous
+459,MIG1,MobiDBLite,consensus disorder prediction,279,383,104,IDR_consenous
+460,MIG1,MobiDBLite,consensus disorder prediction,365,383,18,IDR_consenous
+461,MIG1,MobiDBLite,consensus disorder prediction,418,453,35,IDR_consenous
+462,MIG1,MobiDBLite,consensus disorder prediction,473,489,16,IDR_consenous
+463,MIG2,FunFam,Basic krueppel-like factor 3,13,90,77,other
+464,MIG2,SUPERFAMILY,beta-beta-alpha zinc fingers,31,71,40,DBD
+465,MIG2,SMART,c2h2final6,45,69,24,DBD
+466,MIG2,MobiDBLite,consensus disorder prediction,252,283,31,IDR_consenous
+467,MIG2,MobiDBLite,consensus disorder prediction,316,364,48,IDR_consenous
+468,MIG2,MobiDBLite,consensus disorder prediction,337,357,20,IDR_consenous
+469,MIG3,SUPERFAMILY,beta-beta-alpha zinc fingers,15,69,54,DBD
+470,MIG3,MobiDBLite,consensus disorder prediction,33,52,19,IDR_consenous
+471,MIG3,MobiDBLite,consensus disorder prediction,229,261,32,IDR_consenous
+472,MIG3,MobiDBLite,consensus disorder prediction,345,359,14,IDR_consenous
+473,MIG3,MobiDBLite,consensus disorder prediction,360,375,15,IDR_consenous
+474,MOT2,FunFam,CCR4-NOT transcription complex subunit 4,22,99,77,DBD
+475,MOT2,SUPERFAMILY,"RNA-binding domain, RBD",127,229,102,other
+476,MOT2,ProSiteProfiles,Zinc finger C3H1-type profile.,229,256,27,DBD
+477,MOT2,MobiDBLite,consensus disorder prediction,370,412,42,IDR_consenous
+478,MOT3,MobiDBLite,consensus disorder prediction,1,69,68,IDR_consenous
+479,MOT3,MobiDBLite,consensus disorder prediction,101,162,61,IDR_consenous
+480,MOT3,MobiDBLite,consensus disorder prediction,214,267,53,IDR_consenous
+481,MOT3,MobiDBLite,consensus disorder prediction,249,267,18,IDR_consenous
+482,MOT3,PANTHER,MIP31509P,309,446,137,other
+483,MOT3,ProSiteProfiles,Zinc finger C2H2 type domain profile.,346,373,27,DBD
+484,MOT3,SMART,c2h2final6,374,397,23,DBD
+485,MOT3,MobiDBLite,consensus disorder prediction,421,439,18,IDR_consenous
+486,MSN1,MobiDBLite,consensus disorder prediction,104,138,34,IDR_consenous
+487,MSN1,MobiDBLite,consensus disorder prediction,155,256,101,IDR_consenous
+488,MSN1,Pfam,Transcriptional activator of glycolytic enzymes,278,356,78,other
+489,MSN2,MobiDBLite,consensus disorder prediction,84,246,162,IDR_consenous
+490,MSN2,MobiDBLite,consensus disorder prediction,110,150,40,IDR_consenous
+491,MSN2,MobiDBLite,consensus disorder prediction,159,246,87,IDR_consenous
+492,MSN2,MobiDBLite,consensus disorder prediction,418,437,19,IDR_consenous
+493,MSN2,MobiDBLite,consensus disorder prediction,592,613,21,IDR_consenous
+494,MSN2,FunFam,Transcription factor Msn2p,640,671,31,DBD
+495,MSN2,FunFam,zinc finger protein 697,672,698,26,DBD
+496,MSN4,MobiDBLite,consensus disorder prediction,37,77,40,IDR_consenous
+497,MSN4,MobiDBLite,consensus disorder prediction,115,137,22,IDR_consenous
+498,MSN4,MobiDBLite,consensus disorder prediction,292,322,30,IDR_consenous
+499,MSN4,MobiDBLite,consensus disorder prediction,360,379,19,IDR_consenous
+500,MSN4,MobiDBLite,consensus disorder prediction,502,566,64,IDR_consenous
+501,MSN4,FunFam,Zinc finger protein 331,570,594,24,DBD
+502,MSN4,FunFam,Zinc finger protein-like,598,625,27,DBD
+503,NDT80,MobiDBLite,consensus disorder prediction,324,410,86,IDR_consenous
+504,NFI1,SUPERFAMILY,SAP domain,43,79,36,other
+505,NFI1,ProSiteProfiles,PINIT domain profile.,139,291,152,other
+506,NFI1,Pfam,PINIT domain,155,289,134,other
+507,NFI1,FunFam,"Uncharacterized protein, isoform B",291,419,128,other
+508,NFI1,ProSiteProfiles,Zinc finger SP-RING-type profile.,323,408,85,DBD
+509,NFI1,MobiDBLite,consensus disorder prediction,507,533,26,IDR_consenous
+510,NHP6A,MobiDBLite,consensus disorder prediction,1,23,22,IDR_consenous
+511,NHP6A,MobiDBLite,consensus disorder prediction,69,93,24,IDR_consenous
+512,NHP6B,PRINTS,High mobility group (HMG1/HMG2) protein signature,1,14,13,DBD
+513,NHP6B,SMART,hmgende2,26,96,70,other
+514,NHP6B,PRINTS,High mobility group (HMG1/HMG2) protein signature,42,60,18,DBD
+515,NHP6B,PRINTS,High mobility group (HMG1/HMG2) protein signature,60,79,19,DBD
+516,NRG1,PANTHER,TRANSCRIPTIONAL REPRESSOR PROTEIN YY,89,228,139,other
+517,NRG1,SUPERFAMILY,beta-beta-alpha zinc fingers,172,226,54,DBD
+518,NRG1,SMART,c2h2final6,202,226,24,DBD
+519,NRG2,PANTHER,TRANSCRIPTIONAL REPRESSOR PROTEIN YY,145,209,64,other
+520,NRG2,SMART,c2h2final6,181,205,24,DBD
+521,NSI1,MobiDBLite,consensus disorder prediction,1,21,20,IDR_consenous
+522,NSI1,MobiDBLite,consensus disorder prediction,37,54,17,IDR_consenous
+523,NSI1,MobiDBLite,consensus disorder prediction,100,138,38,IDR_consenous
+524,NSI1,MobiDBLite,consensus disorder prediction,114,134,20,IDR_consenous
+525,NSI1,SMART,sant,270,341,71,DBD
+526,NSI1,SUPERFAMILY,Homeodomain-like,319,391,72,DBD
+527,NSI1,FunFam,Replication termination factor 1,339,393,54,other
+528,NSI1,ProSiteProfiles,Myb-like domain profile.,392,486,94,DBD
+529,NSI1,SMART,sant,493,549,56,DBD
+530,OTU1,FunFam,Ubiquitin thioesterase OTU1,1,73,72,other
+531,OTU1,FunFam,Ubiquitin thioesterase OTU1,95,268,173,other
+532,OTU1,CDD,OTU_OTU1,108,258,150,other
+533,OTU1,ProSitePatterns,Zinc finger C2H2 type domain signature.,272,294,22,DBD
+534,PDC2,ProSiteProfiles,CENPB-type HTH domain profile.,63,138,75,other
+535,PDC2,MobiDBLite,consensus disorder prediction,510,596,86,IDR_consenous
+536,PDC2,MobiDBLite,consensus disorder prediction,674,693,19,IDR_consenous
+537,PDC2,MobiDBLite,consensus disorder prediction,904,925,21,IDR_consenous
+538,PHD1,ProSiteProfiles,APSES-type HTH DNA-binding domain profile.,186,292,106,DBD
+539,PHD1,Pfam,KilA-N domain,206,285,79,other
+540,PHD1,MobiDBLite,consensus disorder prediction,294,366,72,IDR_consenous
+541,PHO2,MobiDBLite,consensus disorder prediction,16,88,72,IDR_consenous
+542,PHO2,FunFam,Homeobox transcription factor,53,135,82,DBD
+543,PHO2,ProSiteProfiles,'Homeobox' domain profile.,75,135,60,DBD
+544,PHO2,ProSitePatterns,'Homeobox' domain signature.,110,133,23,DBD
+545,PHO2,MobiDBLite,consensus disorder prediction,132,158,26,IDR_consenous
+546,PHO2,MobiDBLite,consensus disorder prediction,293,333,40,IDR_consenous
+547,PHO2,MobiDBLite,consensus disorder prediction,534,559,25,IDR_consenous
+548,PHO4,MobiDBLite,consensus disorder prediction,35,49,14,IDR_consenous
+549,PHO4,MobiDBLite,consensus disorder prediction,50,68,18,IDR_consenous
+550,PHO4,MobiDBLite,consensus disorder prediction,138,259,121,IDR_consenous
+551,PHO4,MobiDBLite,consensus disorder prediction,193,218,25,IDR_consenous
+552,PHO4,MobiDBLite,consensus disorder prediction,227,241,14,IDR_consenous
+553,PHO4,MobiDBLite,consensus disorder prediction,242,259,17,IDR_consenous
+554,PLM2,MobiDBLite,consensus disorder prediction,1,63,62,IDR_consenous
+555,PLM2,CDD,FHA_PLM2-like,80,220,140,other
+556,PLM2,SMART,FHA_2,101,154,53,other
+557,PMD1,Pfam,Kelch motif,132,183,51,other
+558,PMD1,MobiDBLite,consensus disorder prediction,651,753,102,IDR_consenous
+559,PMD1,MobiDBLite,consensus disorder prediction,728,753,25,IDR_consenous
+560,PMD1,MobiDBLite,consensus disorder prediction,771,807,36,IDR_consenous
+561,PMD1,MobiDBLite,consensus disorder prediction,875,915,40,IDR_consenous
+562,PMD1,MobiDBLite,consensus disorder prediction,938,957,19,IDR_consenous
+563,PMD1,MobiDBLite,consensus disorder prediction,962,988,26,IDR_consenous
+564,PMD1,MobiDBLite,consensus disorder prediction,1312,1467,155,IDR_consenous
+565,PMD1,MobiDBLite,consensus disorder prediction,1326,1377,51,IDR_consenous
+566,PMD1,MobiDBLite,consensus disorder prediction,1403,1427,24,IDR_consenous
+567,PMD1,MobiDBLite,consensus disorder prediction,1428,1464,36,IDR_consenous
+568,PMD1,MobiDBLite,consensus disorder prediction,1604,1686,82,IDR_consenous
+569,PMD1,MobiDBLite,consensus disorder prediction,1706,1753,47,IDR_consenous
+570,PZF1,MobiDBLite,consensus disorder prediction,1,45,44,IDR_consenous
+571,PZF1,MobiDBLite,consensus disorder prediction,21,45,24,IDR_consenous
+572,PZF1,SUPERFAMILY,beta-beta-alpha zinc fingers,47,83,36,DBD
+573,PZF1,SUPERFAMILY,beta-beta-alpha zinc fingers,74,126,52,DBD
+574,PZF1,FunFam,Transcription factor IIIA,103,132,29,other
+575,PZF1,SMART,c2h2final6,134,159,25,DBD
+576,PZF1,ProSiteProfiles,Zinc finger C2H2 type domain profile.,163,191,28,DBD
+577,PZF1,ProSiteProfiles,Zinc finger C2H2 type domain profile.,194,224,30,DBD
+578,PZF1,SMART,c2h2final6,222,244,22,DBD
+579,PZF1,SMART,c2h2final6,253,277,24,DBD
+580,PZF1,SMART,c2h2final6,365,389,24,DBD
+581,PZF1,MobiDBLite,consensus disorder prediction,406,429,23,IDR_consenous
+582,RAP1,MobiDBLite,consensus disorder prediction,29,128,99,IDR_consenous
+583,RAP1,MobiDBLite,consensus disorder prediction,61,77,16,IDR_consenous
+584,RAP1,MobiDBLite,consensus disorder prediction,78,109,31,IDR_consenous
+585,RAP1,SUPERFAMILY,BRCT domain,95,213,118,other
+586,RAP1,FunFam,DNA-binding protein RAP1,115,216,101,DBD
+587,RAP1,MobiDBLite,consensus disorder prediction,221,268,47,IDR_consenous
+588,RAP1,MobiDBLite,consensus disorder prediction,308,339,31,IDR_consenous
+589,RAP1,ProSiteProfiles,Myb-like domain profile.,355,411,56,DBD
+590,RAP1,CDD,rap1_myb-like,446,550,104,other
+591,RAP1,MobiDBLite,consensus disorder prediction,567,613,46,IDR_consenous
+592,RAP1,MobiDBLite,consensus disorder prediction,594,613,19,IDR_consenous
+593,RAP1,CDD,rap1_RCT,727,824,97,other
+594,RAP1,Pfam,TRF2-interacting telomeric protein/Rap1 - C terminal domain,741,823,82,other
+595,REB1,MobiDBLite,consensus disorder prediction,1,80,79,IDR_consenous
+596,REB1,MobiDBLite,consensus disorder prediction,32,52,20,IDR_consenous
+597,REB1,MobiDBLite,consensus disorder prediction,114,161,47,IDR_consenous
+598,REB1,MobiDBLite,consensus disorder prediction,141,160,19,IDR_consenous
+599,REB1,MobiDBLite,consensus disorder prediction,180,243,63,IDR_consenous
+600,REB1,MobiDBLite,consensus disorder prediction,192,224,32,IDR_consenous
+601,REB1,MobiDBLite,consensus disorder prediction,294,312,18,IDR_consenous
+602,REB1,MobiDBLite,consensus disorder prediction,346,365,19,IDR_consenous
+603,REB1,SMART,sant,401,471,70,DBD
+604,REB1,SUPERFAMILY,Homeodomain-like,449,525,76,DBD
+605,REB1,ProSiteProfiles,Myb-like domain profile.,474,519,45,DBD
+606,REB1,SMART,sant,526,719,193,DBD
+607,REB1,MobiDBLite,consensus disorder prediction,572,667,95,IDR_consenous
+608,REB1,MobiDBLite,consensus disorder prediction,640,666,26,IDR_consenous
+609,REB1,SUPERFAMILY,Homeodomain-like,686,732,46,DBD
+610,REB1,SMART,sant,724,780,56,DBD
+611,REI1,SMART,ZnF_U1_5,4,38,34,other
+612,REI1,MobiDBLite,consensus disorder prediction,55,82,27,IDR_consenous
+613,REI1,MobiDBLite,consensus disorder prediction,66,82,16,IDR_consenous
+614,REI1,MobiDBLite,consensus disorder prediction,102,145,43,IDR_consenous
+615,REI1,MobiDBLite,consensus disorder prediction,119,145,26,IDR_consenous
+616,REI1,SUPERFAMILY,beta-beta-alpha zinc fingers,162,252,90,DBD
+617,REI1,SMART,c2h2final6,215,239,24,DBD
+618,REI1,MobiDBLite,consensus disorder prediction,268,293,25,IDR_consenous
+619,RFX1,MobiDBLite,consensus disorder prediction,48,85,37,IDR_consenous
+620,RFX1,MobiDBLite,consensus disorder prediction,111,156,45,IDR_consenous
+621,RFX1,MobiDBLite,consensus disorder prediction,181,222,41,IDR_consenous
+622,RFX1,Pfam,RFX DNA-binding domain,282,358,76,DBD
+623,RFX1,MobiDBLite,consensus disorder prediction,377,461,84,IDR_consenous
+624,RFX1,MobiDBLite,consensus disorder prediction,400,432,32,IDR_consenous
+625,RGM1,PANTHER,MIP31509P,16,206,190,other
+626,RGM1,Pfam,"Zinc finger, C2H2 type",50,73,23,DBD
+627,RGM1,MobiDBLite,consensus disorder prediction,178,211,33,IDR_consenous
+628,RIM101,MobiDBLite,consensus disorder prediction,1,138,137,IDR_consenous
+629,RIM101,MobiDBLite,consensus disorder prediction,13,49,36,IDR_consenous
+630,RIM101,MobiDBLite,consensus disorder prediction,73,97,24,IDR_consenous
+631,RIM101,MobiDBLite,consensus disorder prediction,104,125,21,IDR_consenous
+632,RIM101,SUPERFAMILY,beta-beta-alpha zinc fingers,146,175,29,DBD
+633,RIM101,SMART,c2h2final6,182,206,24,DBD
+634,RIM101,SUPERFAMILY,beta-beta-alpha zinc fingers,197,235,38,DBD
+635,RIM101,FunFam,zinc finger protein 473 isoform X1,210,236,26,DBD
+636,RIM101,PANTHER,PH-RESPONSE TRANSCRIPTION FACTOR PACC/RIM101,474,623,149,other
+637,RLM1,SUPERFAMILY,SRF-like,1,72,71,other
+638,RLM1,PRINTS,MADS domain signature,38,59,21,DBD
+639,RLM1,MobiDBLite,consensus disorder prediction,103,156,53,IDR_consenous
+640,RLM1,MobiDBLite,consensus disorder prediction,134,155,21,IDR_consenous
+641,RLM1,MobiDBLite,consensus disorder prediction,173,192,19,IDR_consenous
+642,RLM1,MobiDBLite,consensus disorder prediction,202,318,116,IDR_consenous
+643,RLM1,MobiDBLite,consensus disorder prediction,330,424,94,IDR_consenous
+644,RLM1,MobiDBLite,consensus disorder prediction,401,424,23,IDR_consenous
+645,RLM1,MobiDBLite,consensus disorder prediction,472,514,42,IDR_consenous
+646,RLM1,MobiDBLite,consensus disorder prediction,532,631,99,IDR_consenous
+647,RLM1,MobiDBLite,consensus disorder prediction,616,631,15,IDR_consenous
+648,RME1,MobiDBLite,consensus disorder prediction,80,100,20,IDR_consenous
+649,RME1,ProSiteProfiles,Zinc finger C2H2 type domain profile.,178,205,27,DBD
+650,RME1,SMART,c2h2final6,206,234,28,DBD
+651,RME1,ProSiteProfiles,Zinc finger C2H2 type domain profile.,256,286,30,DBD
+652,ROX1,FunFam,HMG box family protein,7,94,87,DBD
+653,ROX1,MobiDBLite,consensus disorder prediction,100,121,21,IDR_consenous
+654,ROX1,MobiDBLite,consensus disorder prediction,242,273,31,IDR_consenous
+655,RPH1,SMART,JmjN_1,13,54,41,other
+656,RPH1,SMART,cupin_9,193,355,162,other
+657,RPH1,Pfam,"JmjC domain, hydroxylase",222,338,116,other
+658,RPH1,MobiDBLite,consensus disorder prediction,599,692,93,IDR_consenous
+659,RPH1,MobiDBLite,consensus disorder prediction,631,653,22,IDR_consenous
+660,RPH1,MobiDBLite,consensus disorder prediction,654,673,19,IDR_consenous
+661,RPH1,FunFam,Transcriptional activator/repressor GIS1,707,734,27,other
+662,RPH1,FunFam,Zinc finger 45-like,735,759,24,DBD
+663,RPH1,MobiDBLite,consensus disorder prediction,774,796,22,IDR_consenous
+664,RPN4,MobiDBLite,consensus disorder prediction,338,432,94,IDR_consenous
+665,RPN4,MobiDBLite,consensus disorder prediction,404,432,28,IDR_consenous
+666,RPN4,ProSiteProfiles,Zinc finger C2H2 type domain profile.,437,473,36,DBD
+667,RSF2,SUPERFAMILY,beta-beta-alpha zinc fingers,148,197,49,DBD
+668,RSF2,FunFam,C2H2 transcription factor (AmdX),175,232,57,DBD
+669,RSF2,MobiDBLite,consensus disorder prediction,208,231,23,IDR_consenous
+670,RSF2,MobiDBLite,consensus disorder prediction,413,445,32,IDR_consenous
+671,RSF2,MobiDBLite,consensus disorder prediction,544,584,40,IDR_consenous
+672,RSF2,MobiDBLite,consensus disorder prediction,624,643,19,IDR_consenous
+673,RSF2,MobiDBLite,consensus disorder prediction,652,677,25,IDR_consenous
+674,RTG1,MobiDBLite,consensus disorder prediction,1,24,23,IDR_consenous
+675,RTG1,MobiDBLite,consensus disorder prediction,52,66,14,IDR_consenous
+676,RTG1,MobiDBLite,consensus disorder prediction,147,177,30,IDR_consenous
+677,RTG3,MobiDBLite,consensus disorder prediction,75,130,55,IDR_consenous
+678,RTG3,MobiDBLite,consensus disorder prediction,243,266,23,IDR_consenous
+679,RTG3,ProSiteProfiles,"Myc-type, basic helix-loop-helix (bHLH) domain profile.",285,344,59,DBD
+680,RTG3,MobiDBLite,consensus disorder prediction,374,394,20,IDR_consenous
+681,SFL1,MobiDBLite,consensus disorder prediction,1,52,51,IDR_consenous
+682,SFL1,SMART,hsfneu3,61,205,144,other
+683,SFL1,PRINTS,Heat shock factor (HSF) domain signature,102,114,12,DBD
+684,SFL1,PRINTS,Heat shock factor (HSF) domain signature,115,127,12,DBD
+685,SFL1,MobiDBLite,consensus disorder prediction,129,181,52,IDR_consenous
+686,SFL1,MobiDBLite,consensus disorder prediction,154,173,19,IDR_consenous
+687,SFL1,MobiDBLite,consensus disorder prediction,203,247,44,IDR_consenous
+688,SFL1,MobiDBLite,consensus disorder prediction,547,619,72,IDR_consenous
+689,SFL1,MobiDBLite,consensus disorder prediction,563,619,56,IDR_consenous
+690,SFL1,MobiDBLite,consensus disorder prediction,657,723,66,IDR_consenous
+691,SFL1,MobiDBLite,consensus disorder prediction,733,747,14,IDR_consenous
+692,SFP1,Phobius,N-terminal region of a signal peptide.,1,12,11,other
+693,SFP1,Phobius,Hydrophobic region of a signal peptide.,13,20,7,other
+694,SFP1,MobiDBLite,consensus disorder prediction,156,178,22,IDR_consenous
+695,SFP1,SMART,c2h2final6,203,224,21,DBD
+696,SFP1,MobiDBLite,consensus disorder prediction,305,324,19,IDR_consenous
+697,SFP1,MobiDBLite,consensus disorder prediction,332,357,25,IDR_consenous
+698,SFP1,MobiDBLite,consensus disorder prediction,399,420,21,IDR_consenous
+699,SFP1,MobiDBLite,consensus disorder prediction,498,517,19,IDR_consenous
+700,SFP1,MobiDBLite,consensus disorder prediction,535,557,22,IDR_consenous
+701,SFP1,FunFam,Transcription factor SFP1,573,634,61,DBD
+702,SFP1,SUPERFAMILY,beta-beta-alpha zinc fingers,596,678,82,DBD
+703,SFP1,SMART,c2h2final6,659,683,24,DBD
+704,SIZ1,MobiDBLite,consensus disorder prediction,1,21,20,IDR_consenous
+705,SIZ1,SUPERFAMILY,SAP domain,32,69,37,other
+706,SIZ1,MobiDBLite,consensus disorder prediction,122,170,48,IDR_consenous
+707,SIZ1,ProSiteProfiles,PINIT domain profile.,162,314,152,other
+708,SIZ1,Pfam,PINIT domain,175,312,137,other
+709,SIZ1,FunFam,"Uncharacterized protein, isoform B",314,442,128,other
+710,SIZ1,ProSiteProfiles,Zinc finger SP-RING-type profile.,344,431,87,DBD
+711,SIZ1,MobiDBLite,consensus disorder prediction,443,584,141,IDR_consenous
+712,SIZ1,MobiDBLite,consensus disorder prediction,467,481,14,IDR_consenous
+713,SIZ1,MobiDBLite,consensus disorder prediction,511,550,39,IDR_consenous
+714,SIZ1,MobiDBLite,consensus disorder prediction,596,616,20,IDR_consenous
+715,SIZ1,MobiDBLite,consensus disorder prediction,672,699,27,IDR_consenous
+716,SIZ1,MobiDBLite,consensus disorder prediction,716,733,17,IDR_consenous
+717,SIZ1,MobiDBLite,consensus disorder prediction,877,904,27,IDR_consenous
+718,SKN7,MobiDBLite,consensus disorder prediction,1,29,28,IDR_consenous
+719,SKN7,FunFam,Transcription factor SKN7,80,189,109,other
+720,SKN7,PRINTS,Heat shock factor (HSF) domain signature,125,137,12,DBD
+721,SKN7,PRINTS,Heat shock factor (HSF) domain signature,138,150,12,DBD
+722,SKN7,SUPERFAMILY,CheY-like,375,533,158,other
+723,SKN7,MobiDBLite,consensus disorder prediction,501,579,78,IDR_consenous
+724,SKN7,MobiDBLite,consensus disorder prediction,599,622,23,IDR_consenous
+725,SKO1,MobiDBLite,consensus disorder prediction,1,119,118,IDR_consenous
+726,SKO1,MobiDBLite,consensus disorder prediction,45,85,40,IDR_consenous
+727,SKO1,MobiDBLite,consensus disorder prediction,135,204,69,IDR_consenous
+728,SKO1,MobiDBLite,consensus disorder prediction,305,331,26,IDR_consenous
+729,SKO1,MobiDBLite,consensus disorder prediction,353,429,76,IDR_consenous
+730,SKO1,MobiDBLite,consensus disorder prediction,382,421,39,IDR_consenous
+731,SKO1,SMART,brlzneu,426,497,71,DBD
+732,SMP1,ProSiteProfiles,MADS-box domain profile.,1,61,60,DBD
+733,SMP1,PRINTS,MADS domain signature,38,59,21,DBD
+734,SMP1,MobiDBLite,consensus disorder prediction,97,142,45,IDR_consenous
+735,SMP1,MobiDBLite,consensus disorder prediction,110,142,32,IDR_consenous
+736,SOK2,MobiDBLite,consensus disorder prediction,1,45,44,IDR_consenous
+737,SOK2,MobiDBLite,consensus disorder prediction,78,121,43,IDR_consenous
+738,SOK2,MobiDBLite,consensus disorder prediction,202,355,153,IDR_consenous
+739,SOK2,MobiDBLite,consensus disorder prediction,235,355,120,IDR_consenous
+740,SOK2,SUPERFAMILY,DNA-binding domain of Mlu1-box binding protein MBP1,414,518,104,DBD
+741,SOK2,Pfam,KilA-N domain,434,518,84,other
+742,SOK2,MobiDBLite,consensus disorder prediction,519,538,19,IDR_consenous
+743,SOK2,MobiDBLite,consensus disorder prediction,642,785,143,IDR_consenous
+744,SOK2,MobiDBLite,consensus disorder prediction,698,746,48,IDR_consenous
+745,SPT10,MobiDBLite,consensus disorder prediction,1,30,29,IDR_consenous
+746,SPT10,ProSiteProfiles,Gcn5-related N-acetyltransferase (GNAT) domain profile.,121,259,138,other
+747,SPT10,Pfam,Acetyltransferase (GNAT) family,147,219,72,other
+748,SPT10,SUPERFAMILY,Acyl-CoA N-acyltransferases (Nat),162,268,106,other
+749,SPT10,FunFam,Transcriptional regulator,307,391,84,other
+750,SPT10,Pfam,H2C2 zinc finger,351,389,38,DBD
+751,SPT10,MobiDBLite,consensus disorder prediction,534,565,31,IDR_consenous
+752,SPT10,MobiDBLite,consensus disorder prediction,545,565,20,IDR_consenous
+753,SPT15,MobiDBLite,consensus disorder prediction,21,40,19,IDR_consenous
+754,SPT15,PANTHER,TATA-BOX BINDING PROTEIN,43,239,196,other
+755,SPT15,Hamap,TATA-box-binding protein [tbp].,61,240,179,other
+756,SPT15,PRINTS,Transcription initiation factor TFIID signature,91,110,19,other
+757,SPT15,PRINTS,Transcription initiation factor TFIID signature,110,128,18,other
+758,SPT15,SUPERFAMILY,TATA-box binding protein-like,149,238,89,other
+759,SPT15,PRINTS,Transcription initiation factor TFIID signature,181,196,15,other
+760,SPT15,PRINTS,Transcription initiation factor TFIID signature,200,216,16,other
+761,SPT23,MobiDBLite,consensus disorder prediction,315,346,31,IDR_consenous
+762,SPT23,MobiDBLite,consensus disorder prediction,376,417,41,IDR_consenous
+763,SPT23,MobiDBLite,consensus disorder prediction,457,476,19,IDR_consenous
+764,SPT23,FunFam,Mga2p,498,655,157,other
+765,SPT23,Pfam,Ankyrin repeats (3 copies),695,771,76,other
+766,SPT23,ProSiteProfiles,Ankyrin repeat region circular profile.,742,769,27,other
+767,SPT23,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,1006,1027,21,other
+768,SPT23,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",1028,1082,54,other
+769,SRD1,MobiDBLite,consensus disorder prediction,101,121,20,IDR_consenous
+770,SRD1,MobiDBLite,consensus disorder prediction,137,161,24,IDR_consenous
+771,SRD1,SUPERFAMILY,Glucocorticoid receptor-like (DNA-binding domain),160,215,55,DBD
+772,SRD1,MobiDBLite,consensus disorder prediction,201,221,20,IDR_consenous
+773,STB3,MobiDBLite,consensus disorder prediction,1,20,19,IDR_consenous
+774,STB3,Pfam,Putative Sin3 binding protein,43,121,78,other
+775,STB3,MobiDBLite,consensus disorder prediction,134,159,25,IDR_consenous
+776,STB3,MobiDBLite,consensus disorder prediction,227,249,22,IDR_consenous
+777,STB3,MobiDBLite,consensus disorder prediction,282,354,72,IDR_consenous
+778,STB3,MobiDBLite,consensus disorder prediction,373,437,64,IDR_consenous
+779,STB3,MobiDBLite,consensus disorder prediction,410,424,14,IDR_consenous
+780,STB3,MobiDBLite,consensus disorder prediction,450,484,34,IDR_consenous
+781,STE12,SMART,ste,57,167,110,other
+782,STE12,MobiDBLite,consensus disorder prediction,177,199,22,IDR_consenous
+783,STE12,MobiDBLite,consensus disorder prediction,211,239,28,IDR_consenous
+784,STE12,MobiDBLite,consensus disorder prediction,285,305,20,IDR_consenous
+785,STE12,MobiDBLite,consensus disorder prediction,587,610,23,IDR_consenous
+786,STE12,MobiDBLite,consensus disorder prediction,630,688,58,IDR_consenous
+787,STE12,MobiDBLite,consensus disorder prediction,651,665,14,IDR_consenous
+788,STE12,MobiDBLite,consensus disorder prediction,671,688,17,IDR_consenous
+789,STP1,MobiDBLite,consensus disorder prediction,47,61,14,IDR_consenous
+790,STP1,MobiDBLite,consensus disorder prediction,115,150,35,IDR_consenous
+791,STP1,MobiDBLite,consensus disorder prediction,128,150,22,IDR_consenous
+792,STP1,FunFam,STP1p Transcription factor,139,224,85,other
+793,STP1,SUPERFAMILY,beta-beta-alpha zinc fingers,155,195,40,DBD
+794,STP1,SMART,c2h2final6,201,223,22,DBD
+795,STP1,MobiDBLite,consensus disorder prediction,357,382,25,IDR_consenous
+796,STP2,MobiDBLite,consensus disorder prediction,35,58,23,IDR_consenous
+797,STP2,FunFam,STP2p Transcription factor,187,248,61,other
+798,STP2,SUPERFAMILY,beta-beta-alpha zinc fingers,202,238,36,DBD
+799,STP2,SMART,c2h2final6,245,267,22,DBD
+800,STP2,MobiDBLite,consensus disorder prediction,452,479,27,IDR_consenous
+801,STP3,MobiDBLite,consensus disorder prediction,31,56,25,IDR_consenous
+802,STP3,MobiDBLite,consensus disorder prediction,71,110,39,IDR_consenous
+803,STP3,FunFam,Stp4p,118,197,79,other
+804,STP3,SMART,c2h2final6,142,161,19,DBD
+805,STP3,SUPERFAMILY,beta-beta-alpha zinc fingers,153,193,40,DBD
+806,STP3,SMART,c2h2final6,169,191,22,DBD
+807,STP3,MobiDBLite,consensus disorder prediction,198,212,14,IDR_consenous
+808,STP4,MobiDBLite,consensus disorder prediction,1,20,19,IDR_consenous
+809,STP4,MobiDBLite,consensus disorder prediction,54,71,17,IDR_consenous
+810,STP4,MobiDBLite,consensus disorder prediction,231,273,42,IDR_consenous
+811,STP4,SMART,c2h2final6,277,296,19,DBD
+812,STP4,SMART,c2h2final6,304,326,22,DBD
+813,STP4,MobiDBLite,consensus disorder prediction,338,375,37,IDR_consenous
+814,STP4,MobiDBLite,consensus disorder prediction,361,375,14,IDR_consenous
+815,STP4,SMART,c2h2final6,422,444,22,DBD
+816,SUM1,MobiDBLite,consensus disorder prediction,1,18,17,IDR_consenous
+817,SUM1,MobiDBLite,consensus disorder prediction,188,217,29,IDR_consenous
+818,SUM1,MobiDBLite,consensus disorder prediction,267,337,70,IDR_consenous
+819,SUM1,MobiDBLite,consensus disorder prediction,370,398,28,IDR_consenous
+820,SUM1,MobiDBLite,consensus disorder prediction,595,634,39,IDR_consenous
+821,SUM1,MobiDBLite,consensus disorder prediction,607,634,27,IDR_consenous
+822,SUM1,MobiDBLite,consensus disorder prediction,681,804,123,IDR_consenous
+823,SUM1,MobiDBLite,consensus disorder prediction,704,718,14,IDR_consenous
+824,SUM1,MobiDBLite,consensus disorder prediction,736,758,22,IDR_consenous
+825,SUM1,MobiDBLite,consensus disorder prediction,763,804,41,IDR_consenous
+826,SWI4,FunFam,Swi4p,26,158,132,other
+827,SWI4,Pfam,KilA-N domain,56,131,75,other
+828,SWI4,MobiDBLite,consensus disorder prediction,138,210,72,IDR_consenous
+829,SWI4,MobiDBLite,consensus disorder prediction,448,468,20,IDR_consenous
+830,SWI4,ProSiteProfiles,Ankyrin repeat profile.,520,552,32,other
+831,SWI4,ProSiteProfiles,Ankyrin repeat profile.,641,673,32,other
+832,SWI4,MobiDBLite,consensus disorder prediction,813,855,42,IDR_consenous
+833,SWI4,MobiDBLite,consensus disorder prediction,973,1017,44,IDR_consenous
+834,SWI4,MobiDBLite,consensus disorder prediction,1001,1017,16,IDR_consenous
+835,SWI5,MobiDBLite,consensus disorder prediction,245,267,22,IDR_consenous
+836,SWI5,MobiDBLite,consensus disorder prediction,443,483,40,IDR_consenous
+837,SWI5,FunFam,Transcriptional factor SWI5,532,576,44,other
+838,SWI5,SMART,c2h2final6,550,574,24,DBD
+839,SWI5,FunFam,Transcription factor,577,607,30,other
+840,SWI5,MobiDBLite,consensus disorder prediction,644,677,33,IDR_consenous
+841,SWI5,MobiDBLite,consensus disorder prediction,657,671,14,IDR_consenous
+842,TBF1,MobiDBLite,consensus disorder prediction,376,402,26,IDR_consenous
+843,TBF1,ProSiteProfiles,Myb-type HTH DNA-binding domain profile.,404,460,56,DBD
+844,TBF1,MobiDBLite,consensus disorder prediction,495,523,28,IDR_consenous
+845,TBF1,MobiDBLite,consensus disorder prediction,530,554,24,IDR_consenous
+846,TDA9,SUPERFAMILY,beta-beta-alpha zinc fingers,58,107,49,DBD
+847,TDA9,SMART,c2h2final6,89,112,23,DBD
+848,TDA9,MobiDBLite,consensus disorder prediction,160,227,67,IDR_consenous
+849,TDA9,MobiDBLite,consensus disorder prediction,180,227,47,IDR_consenous
+850,TDA9,MobiDBLite,consensus disorder prediction,398,428,30,IDR_consenous
+851,TDA9,MobiDBLite,consensus disorder prediction,617,636,19,IDR_consenous
+852,TDA9,CDD,fungal_TF_MHR,665,783,118,other
+853,TDA9,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,700,724,24,other
+854,TDA9,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",725,744,19,other
+855,TDA9,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,745,763,18,other
+856,TDA9,Phobius,Region of a membrane-bound protein predicted to be embedded in the membrane.,1093,1111,18,other
+857,TDA9,Phobius,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",1112,1251,139,other
+858,TEC1,SMART,tea2,123,192,69,other
+859,TEC1,ProSitePatterns,TEA domain signature.,163,191,28,other
+860,TEC1,PRINTS,TEA domain signature,178,192,14,other
+861,TEC1,MobiDBLite,consensus disorder prediction,372,410,38,IDR_consenous
+862,TEC1,MobiDBLite,consensus disorder prediction,465,486,21,IDR_consenous
+863,TIS11,MobiDBLite,consensus disorder prediction,132,164,32,IDR_consenous
+864,TIS11,FunFam,zinc finger CCCH domain-containing protein 15-like,163,202,39,DBD
+865,TIS11,FunFam,Zinc finger protein,203,237,34,DBD
+866,TIS11,MobiDBLite,consensus disorder prediction,252,271,19,IDR_consenous
+867,TOD6,MobiDBLite,consensus disorder prediction,22,82,60,IDR_consenous
+868,TOD6,ProSiteProfiles,Myb-like domain profile.,70,120,50,DBD
+869,TOD6,ProSiteProfiles,Myb-type HTH DNA-binding domain profile.,97,124,27,DBD
+870,TOD6,MobiDBLite,consensus disorder prediction,283,308,25,IDR_consenous
+871,TOD6,SMART,sant,392,443,51,DBD
+872,TOD6,MobiDBLite,consensus disorder prediction,451,510,59,IDR_consenous
+873,TOD6,MobiDBLite,consensus disorder prediction,471,486,15,IDR_consenous
+874,TOD6,MobiDBLite,consensus disorder prediction,495,509,14,IDR_consenous
+875,TOS4,MobiDBLite,consensus disorder prediction,1,101,100,IDR_consenous
+876,TOS4,MobiDBLite,consensus disorder prediction,17,38,21,IDR_consenous
+877,TOS4,MobiDBLite,consensus disorder prediction,57,72,15,IDR_consenous
+878,TOS4,MobiDBLite,consensus disorder prediction,82,101,19,IDR_consenous
+879,TOS4,CDD,FHA_PLM2-like,96,230,134,other
+880,TOS4,SMART,FHA_2,117,170,53,other
+881,TOS4,MobiDBLite,consensus disorder prediction,316,366,50,IDR_consenous
+882,TOS8,PANTHER,HOMEOBOX PROTEIN TRANSCRIPTION FACTORS,160,251,91,other
+883,TOS8,MobiDBLite,consensus disorder prediction,176,199,23,IDR_consenous
+884,TOS8,Pfam,Homeobox KN domain,212,251,39,DBD
+885,TUP1,Pfam,Tup N-terminal,11,88,77,other
+886,TUP1,MobiDBLite,consensus disorder prediction,124,264,140,IDR_consenous
+887,TUP1,FunFam,Tup1p,318,396,78,other
+888,TUP1,SMART,WD40_4,334,371,37,other
+889,TUP1,MobiDBLite,consensus disorder prediction,387,409,22,IDR_consenous
+890,TUP1,SMART,WD40_4,430,471,41,other
+891,TUP1,PRINTS,G protein beta WD-40 repeat signature,458,472,14,other
+892,TUP1,SMART,WD40_4,474,513,39,other
+893,TUP1,PRINTS,G protein beta WD-40 repeat signature,500,514,14,other
+894,TUP1,SMART,WD40_4,516,555,39,other
+895,TUP1,ProSitePatterns,Trp-Asp (WD) repeats signature.,542,556,14,other
+896,TUP1,SMART,WD40_4,558,604,46,other
+897,TUP1,ProSiteProfiles,Trp-Asp (WD) repeats profile.,572,613,41,other
+898,TUP1,PRINTS,G protein beta WD-40 repeat signature,591,605,14,other
+899,TUP1,SMART,WD40_4,619,658,39,other
+900,TUP1,SMART,WD40_4,661,706,45,other
+901,TYE7,MobiDBLite,consensus disorder prediction,89,107,18,IDR_consenous
+902,TYE7,CDD,bHLHzip_SREBP_like,179,283,104,DBD
+903,TYE7,MobiDBLite,consensus disorder prediction,221,245,24,IDR_consenous
+904,USV1,MobiDBLite,consensus disorder prediction,1,37,36,IDR_consenous
+905,USV1,SMART,c2h2final6,41,66,25,DBD
+906,USV1,SMART,c2h2final6,72,95,23,DBD
+907,USV1,MobiDBLite,consensus disorder prediction,91,149,58,IDR_consenous
+908,USV1,MobiDBLite,consensus disorder prediction,106,148,42,IDR_consenous
+909,USV1,MobiDBLite,consensus disorder prediction,326,374,48,IDR_consenous
+910,USV1,MobiDBLite,consensus disorder prediction,350,371,21,IDR_consenous
+911,VHR1,Pfam,Transcription factor Vhr1,18,106,88,other
+912,VHR1,MobiDBLite,consensus disorder prediction,118,139,21,IDR_consenous
+913,VHR1,MobiDBLite,consensus disorder prediction,580,640,60,IDR_consenous
+914,VHR2,MobiDBLite,consensus disorder prediction,1,23,22,IDR_consenous
+915,VHR2,Pfam,Transcription factor Vhr1,24,112,88,other
+916,VHR2,MobiDBLite,consensus disorder prediction,105,179,74,IDR_consenous
+917,VHR2,MobiDBLite,consensus disorder prediction,129,150,21,IDR_consenous
+918,VHR2,MobiDBLite,consensus disorder prediction,421,442,21,IDR_consenous
+919,VID22,MobiDBLite,consensus disorder prediction,1,54,53,IDR_consenous
+920,VID22,MobiDBLite,consensus disorder prediction,19,37,18,IDR_consenous
+921,VID22,ProSiteProfiles,Zinc finger BED-type profile.,66,122,56,DBD
+922,VID22,MobiDBLite,consensus disorder prediction,646,675,29,IDR_consenous
+923,VID22,MobiDBLite,consensus disorder prediction,708,727,19,IDR_consenous
+924,XBP1,MobiDBLite,consensus disorder prediction,138,170,32,IDR_consenous
+925,XBP1,MobiDBLite,consensus disorder prediction,264,295,31,IDR_consenous
+926,XBP1,ProSiteProfiles,APSES-type HTH DNA-binding domain profile.,282,395,113,DBD
+927,XBP1,PANTHER,ASPARAGINASE,346,456,110,other
+928,XBP1,MobiDBLite,consensus disorder prediction,425,455,30,IDR_consenous
+929,XBP1,MobiDBLite,consensus disorder prediction,485,508,23,IDR_consenous
+930,XBP1,MobiDBLite,consensus disorder prediction,612,647,35,IDR_consenous
+931,YAP1,MobiDBLite,consensus disorder prediction,1,89,88,IDR_consenous
+932,YAP1,MobiDBLite,consensus disorder prediction,22,89,67,IDR_consenous
+933,YAP1,FunFam,BZIP transcription factor,59,126,67,other
+934,YAP1,MobiDBLite,consensus disorder prediction,149,169,20,IDR_consenous
+935,YAP1,MobiDBLite,consensus disorder prediction,183,251,68,IDR_consenous
+936,YAP1,MobiDBLite,consensus disorder prediction,392,419,27,IDR_consenous
+937,YAP1,MobiDBLite,consensus disorder prediction,510,532,22,IDR_consenous
+938,YAP1,MobiDBLite,consensus disorder prediction,551,591,40,IDR_consenous
+939,YAP3,MobiDBLite,consensus disorder prediction,114,150,36,IDR_consenous
+940,YAP3,SMART,brlzneu,142,206,64,DBD
+941,YAP3,PANTHER,TRANSCRIPTION FACTOR KAPC-RELATED,255,325,70,other
+942,YAP5,MobiDBLite,consensus disorder prediction,34,77,43,IDR_consenous
+943,YAP5,MobiDBLite,consensus disorder prediction,45,77,32,IDR_consenous
+944,YAP5,SMART,brlzneu,56,120,64,DBD
+945,YAP6,MobiDBLite,consensus disorder prediction,1,64,63,IDR_consenous
+946,YAP6,MobiDBLite,consensus disorder prediction,83,113,30,IDR_consenous
+947,YAP6,MobiDBLite,consensus disorder prediction,168,239,71,IDR_consenous
+948,YAP6,SMART,brlzneu,219,279,60,DBD
+949,YAP7,MobiDBLite,consensus disorder prediction,1,144,143,IDR_consenous
+950,YAP7,MobiDBLite,consensus disorder prediction,22,49,27,IDR_consenous
+951,YAP7,Pfam,Minimal binding motif of Hap4 for binding to Hap2/3/5,50,66,16,other
+952,YAP7,MobiDBLite,consensus disorder prediction,73,93,20,IDR_consenous
+953,YAP7,MobiDBLite,consensus disorder prediction,94,144,50,IDR_consenous
+954,YAP7,SMART,brlzneu,123,187,64,DBD
+955,YHP1,MobiDBLite,consensus disorder prediction,86,106,20,IDR_consenous
+956,YHP1,SUPERFAMILY,Homeodomain-like,168,233,65,DBD
+957,YHP1,ProSitePatterns,'Homeobox' domain signature.,206,229,23,DBD
+958,YOX1,MobiDBLite,consensus disorder prediction,1,37,36,IDR_consenous
+959,YOX1,MobiDBLite,consensus disorder prediction,87,113,26,IDR_consenous
+960,YOX1,SUPERFAMILY,Homeodomain-like,172,235,63,DBD
+961,YOX1,ProSitePatterns,'Homeobox' domain signature.,209,232,23,DBD
+962,YOX1,MobiDBLite,consensus disorder prediction,235,259,24,IDR_consenous
+963,YOX1,MobiDBLite,consensus disorder prediction,271,385,114,IDR_consenous
+964,YPL216W,ProSiteProfiles,WAC domain profile.,23,131,108,other
+965,YPL216W,MobiDBLite,consensus disorder prediction,271,301,30,IDR_consenous
+966,YPL216W,SMART,testlast3,375,435,60,other
+967,YPL216W,Pfam,"Williams-Beuren syndrome DDT (WSD), D-TOX E motif",750,917,167,DBD
+968,ZAP1,MobiDBLite,consensus disorder prediction,1,26,25,IDR_consenous
+969,ZAP1,MobiDBLite,consensus disorder prediction,140,157,17,IDR_consenous
+970,ZAP1,MobiDBLite,consensus disorder prediction,436,456,20,IDR_consenous
+971,ZAP1,MobiDBLite,consensus disorder prediction,510,555,45,IDR_consenous
+972,ZAP1,SMART,c2h2final6,579,604,25,DBD
+973,ZAP1,SMART,c2h2final6,616,641,25,DBD
+974,ZAP1,ProSiteProfiles,Zinc finger C2H2 type domain profile.,705,730,25,DBD
+975,ZAP1,SMART,c2h2final6,738,762,24,DBD
+976,ZAP1,FunFam,Zinc finger protein 404,766,793,27,DBD
+977,ZAP1,FunFam,PR domain zinc finger protein 14,794,818,24,DBD
+978,ZAP1,FunFam,zinc finger and SCAN domain-containing protein 29,819,848,29,DBD

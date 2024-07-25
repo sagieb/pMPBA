@@ -1,0 +1,20 @@
+protein,domain,start,end,color
+MED15,KIX,9,95,green
+MED15,ABD1,163,243,green
+MED15,ABD2,291,359,green
+MED15,ABD3,506,637,green
+MED15,DBD,848,957,red
+MED15,DNA contact,918,923,blue
+MSN2,MotA,0,50,green
+MSN2,MotB,252,266,green
+MSN2,DBD,641,704,grey
+GLN3,DBD,299,349,grey
+CYC8,TPR repeats (Tup1 interaction 1-3. TF-interaction 3-10),40,398,grey
+STE12,DBD,1,215,grey
+TEC1,DBD,128,192,grey
+TEC1,STE12 interaction,301,400,green
+TUP1,Cyc8_interaction,1,72,grey
+TUP1,repression,72,200,grey
+TUP1,WD40_complex_formation,200,713,grey
+PHO4,PHO2 interaction,190,230,grey
+HAP4,HAP complex interaction motif,60,80,red
